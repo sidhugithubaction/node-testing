@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
 
       <h1>
-        This is Prudhvi, Node Testing App
+        This is Prasanth, Node Testing App
       </h1>
       <p>
         {state}
